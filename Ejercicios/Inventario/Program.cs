@@ -65,8 +65,8 @@ namespace Inventario
             Console.Clear();
             Console.WriteLine();
 
-            Console.WriteLine("Ingreso de Productos al Inventario");
-            Console.WriteLine("**********************************");
+            Console.WriteLine("Salida de Productos al Inventario");
+            Console.WriteLine("*********************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
@@ -82,8 +82,8 @@ namespace Inventario
             Console.Clear();
             Console.WriteLine();
 
-            Console.WriteLine("Ingreso de Productos al Inventario");
-            Console.WriteLine("**********************************");
+            Console.WriteLine("Ajuste Positivo de Productos al Inventario");
+            Console.WriteLine("******************************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
@@ -99,8 +99,8 @@ namespace Inventario
             Console.Clear();
             Console.WriteLine();
 
-            Console.WriteLine("Ingreso de Productos al Inventario");
-            Console.WriteLine("**********************************");
+            Console.WriteLine("Ajuste Negativo de Productos al Inventario");
+            Console.WriteLine("******************************************");
             Console.Write("Ingrese el codigo del producto: ");
             codigo = Console.ReadLine();
             Console.Write("Ingrese la cantidad del producto: ");
